@@ -1,0 +1,10 @@
+﻿@using Simulation_2.Models
+@model TeamMembers
+<div class="card" style="width: 18rem;">
+    <img src="~/img/@Model.ImageUrl" class="card-img-top" alt="...">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Name</h5>
+        <h5 class="card-title">@Model.Job</h5>
+        <a asp-action="index" asp-controller="teammembers" class="btn btn-primary">Back</a>
+    </div>
+</div>
