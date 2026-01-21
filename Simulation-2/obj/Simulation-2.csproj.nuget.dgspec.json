@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ll novbe\\source\\repos\\Simulation-2\\Simulation-2\\Simulation-2.csproj": {}
+    "C:\\Users\\fidan\\Desktop\\Simulation-2\\Simulation-2\\Simulation-2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ll novbe\\source\\repos\\Simulation-2\\Simulation-2\\Simulation-2.csproj": {
+    "C:\\Users\\fidan\\Desktop\\Simulation-2\\Simulation-2\\Simulation-2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ll novbe\\source\\repos\\Simulation-2\\Simulation-2\\Simulation-2.csproj",
+        "projectUniqueName": "C:\\Users\\fidan\\Desktop\\Simulation-2\\Simulation-2\\Simulation-2.csproj",
         "projectName": "Simulation-2",
-        "projectPath": "C:\\Users\\ll novbe\\source\\repos\\Simulation-2\\Simulation-2\\Simulation-2.csproj",
-        "packagesPath": "C:\\Users\\ll novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ll novbe\\source\\repos\\Simulation-2\\Simulation-2\\obj\\",
+        "projectPath": "C:\\Users\\fidan\\Desktop\\Simulation-2\\Simulation-2\\Simulation-2.csproj",
+        "packagesPath": "C:\\Users\\fidan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fidan\\Desktop\\Simulation-2\\Simulation-2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ll novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fidan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
